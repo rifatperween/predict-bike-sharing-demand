@@ -32,7 +32,7 @@ Will spend more time on future engineering and hyper parameter tuning as both ar
 |--|--|--|--|--|
 |initial|default|default|default|1.85593|
 |add_features|default|default|default|0.58493|
-|hpo|CAT(iterations),RF(n_estimators), XT(n_estimators)|GB(num_boost_round, num_leaves)|scheduler, searcher|0.56331|
+|hpo|CAT(iterations),RF(n_estimators), XT(n_estimators)|GB(num_boost_round, num_leaves)|scheduler, searcher|0.56334|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
